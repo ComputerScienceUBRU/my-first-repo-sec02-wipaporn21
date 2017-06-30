@@ -1,10 +1,10 @@
 # อาหารที่ชอบ
 ปลาหมึก, ส้มตำ
-# student ID
+# Student ID
 57122420512
-# name
-wipaporn
-# surname
+# Name
+Wipaporn
+# Surname
 khamguna
 # Header 1
 ## Header 2
